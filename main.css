@@ -1,0 +1,17 @@
+html {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: lightseagreen;
+    text-align: center
+}
+
+.friend {
+    background-color: lightgreen;
+}
+
+p {
+    text-transform: uppercase;
+    text-align: center
+}
